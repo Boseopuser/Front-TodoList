@@ -6,7 +6,7 @@
 
 
 # Front TodoList 만들기 
-HTML , CSS , JavaScript 으로 간단한 TodoList 미니 프로젝트  
+# HTML , CSS , JavaScript 으로 간단한 TodoList 미니 프로젝트  
 
 https://user-images.githubusercontent.com/128597230/230555590-58fa3603-554b-45e0-a2ea-cf9952755a2e.mp4
 
